@@ -1,6 +1,7 @@
-contenu
+a fusionner
 
-contenu fusion
+remplacement
 
-test
-test
+remplacement
+tester
+tester
